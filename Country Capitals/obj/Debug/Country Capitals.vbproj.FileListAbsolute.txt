@@ -1,0 +1,13 @@
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\bin\Debug\Country Capitals.exe.config
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\bin\Debug\Country Capitals.exe
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\bin\Debug\Country Capitals.pdb
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\bin\Debug\Country Capitals.xml
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.vbproj.AssemblyReference.cache
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country_Capitals.Form1.resources
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country_Capitals.Resources.resources
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.vbproj.GenerateResource.cache
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.vbproj.CoreCompileInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.exe
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.xml
+C:\Users\ZaiyaanJattiem\source\repos\Country Capitals\obj\Debug\Country Capitals.pdb
